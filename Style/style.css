@@ -164,7 +164,7 @@ a:active {
   color: rgb(0, 0, 0);
 }
 
-@media screen and (max-width: 1200px) {
+@media screen and (max-width: 1000px) {
   * {
     visibility: hidden;
   }
