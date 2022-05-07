@@ -1,0 +1,9 @@
+
+@font-face {
+    font-family: 'eraserdust';
+    src: url('/Style/Font/eraserdust-p70d-webfont.woff2') format('woff2'),
+         url('/Style/Font/eraserdust-p70d-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
