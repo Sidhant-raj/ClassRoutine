@@ -163,8 +163,71 @@ a:visited {
 a:active {
   color: rgb(0, 0, 0);
 }
-
 @media screen and (max-width: 1450px) {
+  Header h2 {
+    font-family: "eraserdust", Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    font-size: 34px;
+    font-weight: 700;
+    margin-bottom: 0.8em;
+    color: rgb(225, 163, 70);
+  }
+  div p b {
+    font-family: "eraserdust", Arial, sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    margin-top: 3em;
+    font-size: 22px;
+    line-height: 30px;
+    color: black;
+  }
+  div p {
+    font-family: "eraserdust", Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+    margin-top: 3em;
+    font-size: 15px;
+    line-height: 30px;
+    color: #6b6b6b;
+    margin-left: 17px;
+  }
+  #brDisable{
+    display: none;
+  }
+  .carousel-inner {
+    position: relative;
+    width: 100%;
+    padding-top: 35px;
+    overflow: hidden;
+  }
+  .h1, h1 {
+    font-size: 2rem;
+  }
+  .container{
+    padding-left:2px;
+  }
+  .table{
+    font-size: 13px;
+  }
+  #gdrive {
+    padding: 34px 0px;
+    padding-right: 27px;
+    width: 193px;
+    height: 80vh;
+    position: fixed;
+    background: rgb(255 255 255 / 59%);
+    backdrop-filter: blur(0.25px);
+    box-shadow: 10px 10px 10px grey;
+    top: 89px;
+    border-radius: 25px;
+    right: 10px;
+    z-index: 3;
+}
+
+}
+
+@media screen and (max-width: 1080px) {
   * {
     visibility: hidden;
   }
