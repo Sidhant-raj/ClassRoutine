@@ -198,7 +198,7 @@ a:active {
   .carousel-inner {
     position: relative;
     width: 100%;
-    padding-top: 35px;
+    padding-top: 30px;
     overflow: hidden;
   }
   .h1, h1 {
@@ -223,8 +223,17 @@ a:active {
     border-radius: 25px;
     right: 10px;
     z-index: 3;
+  }
+  
+
 }
 
+@media screen and (max-width: 1450px){
+  .h1, h1 {
+      font-size: 2rem;
+      width: 100%;
+      padding-right: 22px;
+    }
 }
 
 @media screen and (max-width: 1080px) {
