@@ -164,6 +164,20 @@ a:active {
   color: rgb(0, 0, 0);
 }
 @media screen and (max-width: 1450px) {
+  .carousel-indicators {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 2;
+    display: flex;
+    justify-content: center;
+    padding: 0;
+    margin-right: 15%;
+    margin-bottom: 9.5rem;
+    margin-left: 20%;
+    list-style: none;
+}
   Header h2 {
     font-family: "eraserdust", Arial, sans-serif;
     font-weight: normal;
