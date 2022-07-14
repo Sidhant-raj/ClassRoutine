@@ -1,5 +1,5 @@
 # ClassRoutine
-This Routine is for VB17 Class of KIIT University Originally Created by [@Sidhant-raj](https://github.com/Sidhant-raj)
+This Routine is for CSE35 of KIIT University Originally Created by [@Sidhant-raj](https://github.com/Sidhant-raj)
 
 ## Site Preview
 ![alt text](Style/site.jpg)
