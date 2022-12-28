@@ -140,7 +140,8 @@ table.table {
   margin-top: 2em !important;
 }
 .RoutinePadding {
-  padding-bottom: 3rem;
+  /* padding-bottom: 3rem; */
+  padding-bottom: 2.35rem;
 }
 #printableArea {
   visibility: hidden;
